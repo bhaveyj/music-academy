@@ -2,7 +2,6 @@
 import React from "react";
 import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
 import courseData from "@/data/music_courses.json";
-import { motion } from "motion/react";
 import { AuroraBackground } from "../../components/ui/aurora-background";
 
 function page() {
